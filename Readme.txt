@@ -1,29 +1,39 @@
-📥 Carga y Combinación de Datos
+<h1 align="center">📊 Análisis de Ventas</h1>
 
-Los datos provienen de cuatro archivos CSV (tienda_1.csv, tienda_2.csv, tienda_3.csv, tienda_4.csv).
+<p align="center">
+  <em>Exploración y análisis de datos de ventas de cuatro tiendas diferentes.</em>
+</p>
 
-Se añade una columna Tienda a cada DataFrame para identificar su origen.
+---
 
-Finalmente, todos los datos se concatenan en un único DataFrame llamado df_combined.
+<h2>📥 Carga y Combinación de Datos</h2>
 
-🧹 Limpieza y Preparación de Datos
+<ul>
+  <li>Los datos provienen de <b>cuatro archivos CSV</b> (<code>tienda_1.csv</code>, <code>tienda_2.csv</code>, <code>tienda_3.csv</code>, <code>tienda_4.csv</code>).</li>
+  <li>Se añade una columna <b><code>Tienda</code></b> a cada DataFrame para identificar su origen.</li>
+  <li>Todos los datos se combinan en un único DataFrame: <b><code>df_combined</code></b>.</li>
+</ul>
 
-Conversión de Fecha de Compra a formato de fecha y hora.
+---
 
-Creación de la columna Total de la Compra como suma de Precio y Costo de envío.
-🔎 Análisis Realizado
+<h2>🧹 Limpieza y Preparación de Datos</h2>
 
-✔️ Análisis Temporal → Ventas por año y mes.
-✔️ Categoría de Producto → Ventas, precio promedio y costo de envío.
-✔️ Ubicación de Compra → Ventas, precio promedio y costo de envío por ubicación.
-✔️ Métodos de Pago y Cuotas → Influencia en las ventas.
-✔️ Calificaciones → Distribución y relación con categorías y vendedores.
-✔️ Vendedores → Ranking de ventas totales.
-✔️ Productos → Identificación de los más y menos vendidos.
-✔️ Coste de Envío Promedio → Comparación entre tiendas.
+<ul>
+  <li>Conversión de <code>Fecha de Compra</code> a formato de fecha y hora.</li>
+  <li>Creación de la columna <b><code>Total de la Compra</code></b> = Precio + Costo de envío.</li>
+</ul>
 
+---
 
+<h2>🔎 Análisis Realizado</h2>
 
-💤 El producto menos vendido: [producto menos vendido].
-
-🚚 El costo de envío más bajo se encontró en [tienda X], y el más alto en [tienda Y].
+<ul>
+  <li>✔️ <b>Análisis Temporal</b> → Ventas por año y mes.</li>
+  <li>✔️ <b>Categoría de Producto</b> → Ventas, precio promedio y costo de envío.</li>
+  <li>✔️ <b>Ubicación de Compra</b> → Ventas y comparativa de costos.</li>
+  <li>✔️ <b>Métodos de Pago y Cuotas</b> → Influencia en las ventas.</li>
+  <li>✔️ <b>Calificaciones</b> → Distribución y relación con categorías y vendedores.</li>
+  <li>✔️ <b>Vendedores</b> → Ranking de ventas totales.</li>
+  <li>✔️ <b>Productos</b> → Más vendidos y menos vendidos.</li>
+  <li>✔️ <b>Coste de Envío Promedio</b> → Comparación entre tiendas.</li>
+</ul>
