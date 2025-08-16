@@ -22,21 +22,7 @@ Creación de la columna Total de la Compra como suma de Precio y Costo de envío
 ✔️ Productos → Identificación de los más y menos vendidos.
 ✔️ Coste de Envío Promedio → Comparación entre tiendas.
 
-🌟 Hallazgos Clave (ejemplos, reemplazar con tus resultados)
 
-📈 Las categorías con mejor rendimiento: [categorías de alto rendimiento].
-
-📉 Las categorías con menor rendimiento: [categorías de bajo rendimiento].
-
-🗓️ Se observó una tendencia de [describir tendencia temporal].
-
-📍 En términos de ubicación, las ventas fueron más altas en [ubicación destacada].
-
-💳 El método de pago más utilizado fue [método de pago], con cuotas de [detalle].
-
-⭐ La calificación promedio de los productos fue [valor promedio].
-
-🛒 El producto más vendido: [producto más vendido].
 
 💤 El producto menos vendido: [producto menos vendido].
 
